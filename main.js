@@ -1,3 +1,3 @@
 var a =100;
 console.log(a);
-peng GG
+console.log("在此一游");
