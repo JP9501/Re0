@@ -1,3 +1,6 @@
 
 var a = 200;
-var add =[]
+var add =[];
+funciont test(){
+
+}
